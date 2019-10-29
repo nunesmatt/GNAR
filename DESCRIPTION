@@ -1,8 +1,8 @@
 Package: GNAR
 Type: Package
 Title: Methods for Fitting Network Time Series Models
-Version: 0.3.6
-Date: 2019-06-07
+Version: 1.0
+Date: 2019-10-29
 Author: Kathryn Leeming [aut], Guy Nason [aut], Matt Nunes [aut, cre], Marina Knight [ctb]
 Authors@R: c(person("Kathryn", "Leeming", role="aut"), person("Guy","Nason",role="aut"), person("Matt",
         "Nunes", role=c("aut","cre"),email="nunesrpackages@gmail.com"), person("Marina","Knight",role="ctb"))
